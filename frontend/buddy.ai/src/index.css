@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+
+.dashboard {
+  text-align: center;
+  padding: 50px;
+}
+
+.options {
+  margin-top: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  margin: 10px;
+}
+
+#recommendations {
+  margin-top: 20px;
+}
